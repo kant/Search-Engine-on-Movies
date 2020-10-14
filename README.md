@@ -1,7 +1,5 @@
-# ADM-HW3
-Repository for Homework3 ADM
 
-Here you will find the total coding steps leading to a precise search between a data set of 30 000 different movies that allow a user to find the ones he is looking for regarding to a genre, a topic, a date or whatever he wants. 
+Here you will find the total coding steps leading to a precise search between a data set of 30 000 different movies that allow a user to find the ones he is looking for regarding to a genre, a topic, a date or whatever she wants. 
 
 On the first step named collector.py, we have created our own dataset using the 30000 wikipedia URLs given. We have collected all the html pages in the folder Movies
 
